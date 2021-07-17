@@ -1,5 +1,5 @@
-Nice to met you, I'm Procedurally-Generated-Human or PGH for short.
-Interests: procedural generation, maps, probability, game development, other cool stuff
+Nice to met you, I'm Procedurally-Generated-Human or PGH for short. |
+Interests: procedural generation, maps, probability, game development, other cool stuff. |
 langauges: python, lua, html, css, c
 
 <!---
