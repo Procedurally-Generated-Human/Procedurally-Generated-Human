@@ -1,6 +1,7 @@
 Interests: procedural generation, backend development, maps, hashing and encryptions, 2d barcodes, and other cool stuff.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Procedurally-Generated-Human)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
