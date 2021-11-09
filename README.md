@@ -1,4 +1,12 @@
-Interests: procedural generation, backend development, maps, hashing and encryptions, 2d barcodes, and other cool stuff.
+Interests:
+Backend development. 
+Cryptography. 
+Steganography. 
+Networking. 
+2d Barcodes.  
+Procedural Generation. 
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
