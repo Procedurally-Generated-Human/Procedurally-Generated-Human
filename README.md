@@ -1,10 +1,5 @@
-Interests:
-Backend development. 
-Cryptography. 
-Steganography. 
-Networking. 
-2d Barcodes.  
-Procedural Generation. 
+Interests: Backend development, Cryptography, Steganography, Networking, Procedural Generation. 
+
 
 
 
