@@ -1,4 +1,4 @@
-Interests: Backend development, Cryptography, Steganography, Networking, Procedural Generation. 
+Interests: Backend development, Cryptography, Steganography, Networking, Procedural Generation, Genetic Algorithms. 
 
 
 
