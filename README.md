@@ -1,9 +1,9 @@
-I'm Parsa, a sophomore studying computer engineering at Razi university.  
+I'm Parsa, a sophomore studying Computer Engineering at Razi university.  
 
 The majority of my repositories are small to medium scale projects that i work on during my free time.  
 After working on a lot of different projects in quite a few different fields, these are currently the subjects in which i have the most interest/experience in:   
 - Genetic Algorithms
-- Neural Networks
+- Machine Learning Models
 - Backend Development
 - Procedural Generation
 - Encryption/Steganography
