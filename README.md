@@ -1,4 +1,4 @@
-I'm Parsa, a sophomore studying Computer Engineering at Razi university.  
+I'm Parsa, a second year student studying Computer Engineering at Razi university.  
 
 The majority of my repositories consist of interesting projects that i work on during my free time as well as some school related code.    
 These are currently the subjects in which i have the most experience/interest in:   
