@@ -1,13 +1,13 @@
-I'm Parsa, a second year student studying Computer Engineering at Razi university.  
+I'm Parsa, a third year Computer Engineering student.
 
-The majority of my repositories consist of interesting projects that i work on during my free time as well as some school related code.    
-These are currently the subjects in which i have the most experience/interest in:   
-
-- Backend Development
-- Machine Learning 
+The majority of my repositories consist of interesting projects that i have worked on during my free time as well as some school related code.    
+Currently, I am focusing on machine learning.
+Interests:
+- Machine Learning
+- Reinforcement Learning
 - Genetic Algorithims
 - Procedural Generation
-- Encryption/Steganography
+- Backend Development
    
 -------------------
 
