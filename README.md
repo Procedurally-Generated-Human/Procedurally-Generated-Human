@@ -1,8 +1,8 @@
 I'm Parsa, a third year Computer Engineering student.
 
 The majority of my repositories consist of interesting projects that i have worked on during my free time as well as some school related code.    
-Currently, I am focusing on machine learning.
-Interests:
+
+Current Interests:
 - Machine Learning
 - Reinforcement Learning
 - Genetic Algorithims
