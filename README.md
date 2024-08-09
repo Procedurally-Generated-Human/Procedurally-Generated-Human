@@ -1,4 +1,4 @@
-I'm Parsa, a third year Computer Engineering student. Currently, I'm researching applied Machine Learning and Reinforcement Learning for real-world problems.
+I'm Parsa, a third year Computer Engineering student. Currently, I'm researching applied Machine Learning and Reinforcement Learning for solving real-world problems.
 The majority of my repositories consist of interesting projects that i have worked on during my free time as well as some school related code.    
 
 Current Interests:
