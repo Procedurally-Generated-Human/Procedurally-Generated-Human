@@ -5,9 +5,10 @@ Current Interests:
 - Machine Learning
 - Reinforcement Learning
 - Genetic Algorithims
-- Procedural Generation
 - Backend Development
-   
+- Computer Vision
+- Computer Networks
+- IoT
 -------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
