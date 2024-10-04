@@ -6,9 +6,8 @@ My research interests:
 - Machine/Deep Learning 
 - Reinforcement Learning (Applied, Theoretical, Model-based, ...)
 - Computer Networks (Routing, Resource Allocation, SDN, VNF, Security, ...)
-- IoT
+- Internet of Things
 - Computer Vision
-- Genetic Algorithms
 -------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
