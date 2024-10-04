@@ -1,14 +1,14 @@
-I'm Parsa, a fourth year Computer Engineering student. Currently, I'm researching applied Machine Learning and Reinforcement Learning for solving real-world problems.
-The majority of my repositories consist of interesting projects that i have worked on during my free time as well as some school related code.
+I'm Parsa, a fourth-year Computer Engineering student. Currently, I'm researching applied **Machine Learning** and **Reinforcement Learning** for solving real-world problems, particularly in the field of **computer networks**. [[View my publications]](https://scholar.google.com/citations?user=RkgCgz0AAAAJ&hl=en)
 
-Current Interests:
-- Machine Learning
-- Reinforcement Learning
-- Genetic Algorithims
-- Backend Development
-- Computer Vision
-- Computer Networks
+The majority of my repositories consist of interesting projects that I have worked on during my free time as well as some school-related code.
+
+My research interests:
+- Machine/Deep Learning 
+- Reinforcement Learning (Applied, Theoretical, Model-based, ...)
+- Computer Networks (Routing, Resource Allocation, SDN, VNF, Security, ...)
 - IoT
+- Computer Vision
+- Genetic Algorithms
 -------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
