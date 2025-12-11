@@ -2,7 +2,7 @@ I'm Parsa, a CS Master's student at Concordia University. Currently, I'm researc
 
 -------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Procedurally-Generated-Human&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]-->
 
 
 
